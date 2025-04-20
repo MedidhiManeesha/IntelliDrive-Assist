@@ -3,7 +3,7 @@
 
 An AI-powered, sensor-free ADAS solution for enhancing road safety using real-time vehicle detection, traffic sign recognition, lane detection, and driver drowsiness monitoring — implemented entirely in Python with deep learning models.
 
-![ADAS Overview](adasgit.jpg)
+![ADAS Overview](assets/adasgit.jpg)
 
 ---
 
@@ -42,22 +42,22 @@ An AI-powered, sensor-free ADAS solution for enhancing road safety using real-ti
 
 <h3 align="center">🚗 Vehicle Detection & Collision Warning</h3>
 <p align="center">
-  <img src="collisiongit.jpeg" width="45%" />
+  <img src="assets/collisiongit.jpeg" width="45%" />
 </p>
 
 <h3 align="center">🛣️ Lane Detection</h3>
 <p align="center">
-  <img src="lanedetect-op.png" width="45%" />
+  <img src="assets/lanedetect-op.png" width="45%" />
 </p>
 
 <h3 align="center">🚧 Traffic Sign Recognition</h3>
 <p align="center">
-  <img src="trafficgit.jpeg" width="45%" />
+  <img src="assets/trafficgit.jpeg" width="45%" />
 </p>
 
 <h3 align="center">😴 Driver Drowsiness Detection</h3>
 <p align="center">
-  <img src="drivergit.jpeg" width="45%" />
+  <img src="assets/drivergit.jpeg" width="45%" />
 </p>
 
 
