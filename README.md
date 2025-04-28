@@ -1,16 +1,12 @@
-# IntelliDrive-Assist
-# 🚗 Advanced Driver Assistance System (ADAS)
+# IntelliDrive-Assist - Final Year Project
 <h2>Project Overview</h2>
-
 <p>
   This project is developed as part of our Final Year Engineering curriculum. 
   It focuses on implementing an Advanced Driver Assistance System (ADAS) using modern computer vision techniques. 
   The system is divided into four modules: Vehicle Detection and Collision Warning, Lane Detection, Traffic Sign Recognition, and Driver Drowsiness Detection.
   We have utilized state-of-the-art methods such as YOLOv8, UFLD, Canny Edge Detection, Hough Transform, and Dlib's facial landmark detector to create a robust and efficient ADAS solution.
 </p>
-
 <h2>Team Members and Roles</h2>
-
 <table>
   <thead>
     <tr>
@@ -48,7 +44,7 @@
   </tbody>
 </table>
 
-
+# 🚗 Advanced Driver Assistance System (ADAS)
 An AI-powered, sensor-free ADAS solution for enhancing road safety using real-time vehicle detection, traffic sign recognition, lane detection, and driver drowsiness monitoring — implemented entirely in Python with deep learning models.
 
 ![ADAS Overview](assets/adasgit.jpg)
