@@ -1,5 +1,53 @@
 # IntelliDrive-Assist
 # 🚗 Advanced Driver Assistance System (ADAS)
+<h2>Project Overview</h2>
+
+<p>
+  This project is developed as part of our Final Year Engineering curriculum. 
+  It focuses on implementing an Advanced Driver Assistance System (ADAS) using modern computer vision techniques. 
+  The system is divided into four modules: Vehicle Detection and Collision Warning, Lane Detection, Traffic Sign Recognition, and Driver Drowsiness Detection.
+  We have utilized state-of-the-art methods such as YOLOv8, UFLD, Canny Edge Detection, Hough Transform, and Dlib's facial landmark detector to create a robust and efficient ADAS solution.
+</p>
+
+<h2>Team Members and Roles</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Role</th>
+      <th>Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>M. N Maneesha</strong> (Team Lead)</td>
+      <td>Lead Developer, Research Coordinator</td>
+      <td>Implemented Vehicle Detection and Collision Warning System (Module 1), Lane Detection (Module 2), wrote the conference paper, handled communication for paper publication (ICICT to IEEE)</td>
+    </tr>
+    <tr>
+      <td><strong>S. Ashish Raj</strong></td>
+      <td>Developer</td>
+      <td>Implemented Traffic Sign Recognition System (Module 3)</td>
+    </tr>
+    <tr>
+      <td><strong>S. Chandanapriya</strong></td>
+      <td>Developer</td>
+      <td>Implemented Driver Drowsiness Detection System (Module 4)</td>
+    </tr>
+    <tr>
+      <td><strong>Md. Zaheer</strong></td>
+      <td>Documentation and Support</td>
+      <td>Assisted in documentation, project reports, and presentation materials</td>
+    </tr>
+    <tr>
+      <td><strong>V. Praveen Prakash</strong></td>
+      <td>Research Assistant</td>
+      <td>Assisted in dataset preparation, testing, and performance evaluation</td>
+    </tr>
+  </tbody>
+</table>
+
 
 An AI-powered, sensor-free ADAS solution for enhancing road safety using real-time vehicle detection, traffic sign recognition, lane detection, and driver drowsiness monitoring — implemented entirely in Python with deep learning models.
 
