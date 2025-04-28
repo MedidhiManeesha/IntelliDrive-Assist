@@ -65,7 +65,7 @@ An AI-powered, sensor-free ADAS solution for enhancing road safety using real-ti
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Module                   | Frameworks/Libraries Used         |
 |--------------------------|-----------------------------------|
