@@ -116,8 +116,4 @@ An AI-powered, sensor-free ADAS solution for enhancing road safety using real-ti
 | Depth Estimation      | O(k) pixels/frame      | 20               |
 | Drowsiness Monitoring | O(m) facial landmarks  | 10               |
 
----
-## 🎤 Project Presentation
 
-You can view our conference presentation slides here:  
-[📑 ADAS Project Presentation (Google Drive)](https://drive.google.com/file/d/111kHaJihyEma1fWr3vX19TsWF7VlaGE6/view?usp=drive_link)
